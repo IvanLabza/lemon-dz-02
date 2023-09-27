@@ -25,7 +25,7 @@ h1,h2,h3,h4,h5,h6,p{
 }
 
 .modal {
-    background: url(/img/modal-bg.png);
+    background: url(../img/modal-bg.png);
     background-repeat: no-repeat;
     background-size: contain;
     padding: 15px 0;
